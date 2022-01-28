@@ -63,15 +63,7 @@
       digitalWrite(m, HIGH);
     }
 
-    void afficheResultat(){
 
-      if (testSignalRecu(19, 18, 5, 17, 16, 4, 2, 15) == true){
-        Serial.println("le cable fonctionne tres bien");
-      }else{
-        Serial.println("le cable ne fonctionne pas");
-      }
-      
-    }
 
 
 

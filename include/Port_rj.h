@@ -29,4 +29,3 @@ void signalRecevoi(int ob, int o, int vb, int b, int bb, int v, int mb, int m);
 void signalEnvoi(int ob, int o, int vb, int b, int bb, int v, int mb, int m);
 bool testSignalRecu(int ob, int o, int vb, int b, int bb, int v, int mb, int m);
 void statuHigh (int ob, int o, int vb, int b, int bb, int v, int mb, int m);
-void afficheResultat();
